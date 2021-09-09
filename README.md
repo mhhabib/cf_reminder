@@ -1,5 +1,5 @@
 # CodeForces Contest Reminder
-Desktop notifications scripting application which will remind you about upcomming Codeforces contest.
+Desktop notifications scripting application that will remind you about the upcoming Codeforces contest.
 
 Currently, It will push notifications reminder in your desktop pc. <br/>
 ![Untitled](https://user-images.githubusercontent.com/17263976/132727396-9c515aa9-9879-485f-bbff-2b3f3e38bc9f.png)
