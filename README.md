@@ -34,4 +34,4 @@ pythonw.exe .\cfreminder.py
 ## Warning!
 - It may have bugs. Since i used timer sleep, it may show you a lots of notification. If it this happens then [go](#Kill-the-application-from-background) to the above killing process. 
 
-**NB** Feel to use and contribute the repository if you found any bugs.
+**NB** Feel free to use and contribute the repository. If you found any bugs the report as Issues or Send a PR.
