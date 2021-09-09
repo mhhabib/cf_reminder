@@ -32,6 +32,6 @@ pythonw.exe .\cfreminder.py
 - Select and Press `End Task` from bottom right button.
 
 ## Warning!
-- It may have bug. Since i used timer sleep, it may show you a lots of notification. If it this happens then [go](#Kill-the-application-from-background) to the above killing process. 
+- It may have bugs. Since i used timer sleep, it may show you a lots of notification. If it this happens then [go](#Kill-the-application-from-background) to the above killing process. 
 
 **NB** Feel to use and contribute the repository if you found any bugs.
